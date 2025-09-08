@@ -108,9 +108,7 @@ You can also find other classroom course listings through NYS Parks—these are 
 * Planning with friends or family? Group discounts make **Boatsmart!** or **Drive a Boat USA** cost-effective.
 * Want hands-on instruction? Call ----- to register for the Hempstead classroom course.
 
-Once completed, be sure to follow instructions to either order your permanent card or visit a **NY DMV office** to add the anchor icon if desired ([New York State Parks][8], [BoatUS Foundation][1], [Boat Ed][2], [Drive a Boat USA][5]).
-
-## Sources 
+Once completed, be sure to follow instructions to either order your permanent card or visit a **NY DMV office** to add the anchor icon if desired ([New York State Parks][8], [BoatUS Foundation][1], [Boat Ed][2], [Drive a Boat USA][5]). 
 
 [1]: https://www.boatus.org/newyork "New York Boating Safety Course"
 [2]: https://www.boat-ed.com/newyork/ "Get your New York Boating License & Safety Course"

@@ -79,8 +79,6 @@ Many European countries—especially those in the Mediterranean (e.g., Greece, C
 4. **Submit application** and pay applicable fees.
 5. **Receive your ICC** (typically valid for 5 years).
 
-## Sources 
-
 [1]: https://en.wikipedia.org/wiki/International_Certificate_of_Competence "International Certificate of Competence"
 [2]: https://www.noonsite.com/report/cruising-regulations-obtaining-an-international-certificate-of-competence-icc/ "Obtaining an International Certificate of Competence (ICC)"
 [3]: https://www.iytworld.com/courses/international-certificate-of-competency-icc/ "International Certificate of Competency (ICC Certificate)"
