@@ -2,9 +2,10 @@
 
 Studying for boating exam in NYC and repository for sailing knowledge
 
-This is largely stuff from ChatGPT, and I am using it for me personally. 
+- Largely stuff from ChatGPT
+- Using it for me personally
+- Fact check yourself! 
 
-Fact check yourself! 
 
 ## Goals of study repo 
 
