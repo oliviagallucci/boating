@@ -5,9 +5,9 @@ description: Approved online and classroom options for obtaining a New York Stat
 
 # NYC Boating Safety Courses
 
-## Approved Courses for New York State
+## Approved Courses for New York State - OG's pick
 
-### 1. **BoatUS Foundation – Free Online Course**
+### **BoatUS Foundation – Free Online Course**
 
 * **Cost**: Free for online access; \$15 for a permanent plastic card.
 * **Highlights**:
@@ -16,6 +16,7 @@ description: Approved online and classroom options for obtaining a New York Stat
   * Meets the New York State education requirement.
   * Print a **temporary certificate** immediately; permanent card ships in 2–3 weeks ([BoatUS Foundation][1]).
 
+<!---
 ### 2. **Boat-Ed**
 
 * **Cost**: Paid course (price set on website).
@@ -55,7 +56,7 @@ description: Approved online and classroom options for obtaining a New York Stat
   * Option to add icon to your driver’s license via NY DMV through Adventure License program ([Drive a Boat USA][5]).
 
 ---
-
+--->
 ## In-Person (Classroom-Based) Options
 
 ### **Town of Hempstead (Long Island)**
