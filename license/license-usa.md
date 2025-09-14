@@ -30,10 +30,3 @@ You don’t need to already own a boat in order to get a motorboat license. The 
 
 * If you want hands-on experience but don’t own a boat, many marinas and outfitters rent motorboats. You can use rentals to get practice and demonstrate skills (some states include a practical test, though many don’t).
 
-## NY & NJ Reciprocity
-
-New Jersey and New York recognize each other’s boating safety certificates, as long as they are NASBLA-approved (National Association of State Boating Law Administrators).
-
-All of the online courses listed (BoatUS, Boat-Ed, BoaterExam, etc.) are NASBLA-approved, so your NY certificate will work in NJ.
-
-Important caveat: If you are a New Jersey resident, NJ law requires you to get a NJ Boating Safety Certificate (not just an out-of-state one). But if you’re just visiting with your NY license, you’re fine.
